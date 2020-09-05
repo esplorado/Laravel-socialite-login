@@ -9,7 +9,7 @@ This repo shows how to login in web app via third party app like Google,Facebook
 4. Select any third party for login medium. 
 5. Put Client id, Secret key,Callback url in config/services.php file.
 6. Thats it you're good to go.
-7. Admin Credentials : 
-⋅⋅1. Email : admin@gmail.com 
-⋅⋅2. Password : 123456
+7. Admin Credentials :- 
+    1. Email : admin@gmail.com 
+    2. Password : 123456
 
